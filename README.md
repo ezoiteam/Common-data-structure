@@ -1,8 +1,8 @@
 # Common-data-structure
 * List
-* Queue
 * Stack
 * Union
+* Queue
 * Segment Tree
 * Binary Indexed Tree
 * ...
