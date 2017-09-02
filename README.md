@@ -4,5 +4,5 @@
 * Stack
 * Union
 * Segment Tree
-* Binary Indexed tree
+* Binary Indexed Tree
 * ...
