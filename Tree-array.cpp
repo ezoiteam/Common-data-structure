@@ -9,7 +9,7 @@ struct bit    // Binary Indexed Tree(or fenwick tree) 1 based index implementati
 		return x & (-x); 
 	}
 
-	void modify(int x,int y)     // Add value y at index x if array
+	void modify(int x,int y)     // Add value y at index x of array
 	{
 		while(x <= n)
 		{
